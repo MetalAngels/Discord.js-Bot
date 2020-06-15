@@ -1,0 +1,9 @@
+const Discord = require("discord.js");
+const client = new Discord.Client();
+
+const token = "YOUR_TOKEN_HERE";
+
+const prefix = "PREFIX";
+
+// This should always stay at the very bottom of the code
+client.login(token);
