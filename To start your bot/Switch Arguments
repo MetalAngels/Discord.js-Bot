@@ -1,0 +1,13 @@
+// do not put any case/breaks outside of this
+client.on("message", message => {
+  let args = message.content.substring(prefix.length).split(" ");
+
+  switch (args[0]) {
+  
+ // Case and break goes here like this
+ case 'command name:
+ 
+   // Code goes here
+  break;
+    }
+  })
