@@ -1,0 +1,13 @@
+To get started, first go to https://discord.com/developers/applications
+
+Now once you've logged in, click on "New Application" on the top right and set a name for your bot
+
+It'll redirect you to the settings of the bot so now go to "Bot" in the settings category in the left and press "Add Bot"
+
+It will now make your bot!
+
+Right under the name, you'll see "Token" and a click to reveal line. That is where the token you need to get the bot to login.
+
+You also need to invite the bot to your discord server so go to https://discordapi.com/permissions.html
+
+Get the client ID from General Information under the name there and set what permissions you want the bot to have when inviting the bot to your server to have.
