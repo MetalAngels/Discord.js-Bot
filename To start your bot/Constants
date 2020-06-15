@@ -1,8 +1,11 @@
+// This should be at the very top of the code
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
 const token = "YOUR_TOKEN_HERE";
 
+
+// Prefix is needed for switch arguments
 const prefix = "PREFIX";
 
 // This should always stay at the very bottom of the code
