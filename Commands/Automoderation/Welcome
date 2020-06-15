@@ -1,0 +1,8 @@
+client.on("guildMemberAdd", member => {
+  const channel = member.guild.channels.cache.find(
+    c => c.name === "CHANNEL_NAME_HERE"
+  );
+  if (!channel) return;
+
+  channel.send(`${member} WELCOME_MESSAGE_HERE`);
+});
