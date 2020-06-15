@@ -1,4 +1,4 @@
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setActivity(`ACTIVITY_NAME_HERE`, {type: "PLAYING"});
+  client.user.setActivity(`ACTIVITY_NAME_HERE`, {type: "PLAYING/LISTENING/WATCHING/STREAMING"});
 });
