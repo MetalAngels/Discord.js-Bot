@@ -11,3 +11,8 @@ Right under the name, you'll see "Token" and a click to reveal line. That is whe
 You also need to invite the bot to your discord server so go to https://discordapi.com/permissions.html
 
 Get the client ID from General Information under the name there and set what permissions you want the bot to have when inviting the bot to your server to have.
+
+
+OK! Now you just need to go into your editor terminal and type `npm i discord.js` (Make sure you have node.js installed before you do this)
+
+Now you can start coding!
